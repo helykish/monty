@@ -1,9 +1,9 @@
 #include "monty.h"
 /**
- * addnode - add node to the head stack
+ * addnode - node addition to head stack
  * @head: head of the stack
- * @n: new_value
- * Return: no return
+ * @n: add new_value
+ * Return: void return
 */
 void addnode(stack_t **head, int n)
 {
